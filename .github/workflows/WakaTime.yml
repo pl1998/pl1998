@@ -1,5 +1,3 @@
-### 
-
 name: WakaTime Readme
 
 on:
@@ -16,9 +14,3 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-
-Blog : [https://pltrue.top/](https://pltrue.top/)
-
-![](https://github-readme-stats.vercel.app/api?username=pl1998)
-
