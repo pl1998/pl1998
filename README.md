@@ -8,7 +8,7 @@ Blog : [https://pltrue.top/](https://pltrue.top/)
 
 Learn to summarize(学习总结)
 
-![avatar](img/weixinsousou1.png)
+![avatar](img/WechatIMG454.png)
 
 
 
